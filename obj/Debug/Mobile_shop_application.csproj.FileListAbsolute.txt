@@ -1,0 +1,143 @@
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\Mobile_shop_application.exe.config
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\Mobile_shop_application.exe
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\Mobile_shop_application.pdb
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\FlashControlV71.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\stdole.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Company.Company_reg.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Company.Suplair_registration.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Customer.customer_reg.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.EmployRegistration.Empreg.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Item_registration.item_Registration.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Log_in.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Main_form.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Parchas.ParchasRview.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Parchas.parchasfrm.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Parchas.parchasreturnfrm.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Parchas.Parchasview.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Reports.Sale_Print.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Properties.Resources.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Registration_form.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Sale.Sale_Return.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Sale.Sale_return_view.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Sale.Sale_Section.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Sale.Sale_view.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.UserRegestration.user.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.csproj.GenerateResource.Cache
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.exe
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.pdb
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\bin\Debug\Mobile_shop_application.exe.config
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.exe
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.pdb
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\bin\Debug\Mobile_shop_application.exe
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\bin\Debug\Mobile_shop_application.pdb
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\bin\Debug\FlashControlV71.dll
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\bin\Debug\stdole.dll
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Company.Company_reg.resources
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Company.Suplair_registration.resources
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Customer.customer_reg.resources
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.EmployRegistration.Empreg.resources
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Item_registration.item_Registration.resources
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Log_in.resources
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Main_form.resources
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Parchas.ParchasRview.resources
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Parchas.parchasfrm.resources
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Parchas.parchasreturnfrm.resources
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Parchas.Parchasview.resources
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Reports.Sale_Print.resources
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Properties.Resources.resources
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Registration_form.resources
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Sale.Sale_Return.resources
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Sale.Sale_return_view.resources
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Sale.Sale_Section.resources
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Sale.Sale_view.resources
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.UserRegestration.user.resources
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.UserRegestration.password_reset.resources
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Backup.Backup_and_Restore.resources
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Backup.Restore.resources
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Company.Company_reg.resources
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Company.Suplair_registration.resources
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Customer.customer_reg.resources
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.EmployRegistration.Empreg.resources
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Item_registration.item_Registration.resources
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Log_in.resources
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Main_form.resources
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Parchas.ParchasRview.resources
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Parchas.parchasfrm.resources
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Parchas.parchasreturnfrm.resources
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Parchas.Parchasview.resources
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Reports.Sale_Print.resources
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Properties.Resources.resources
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Registration_form.resources
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Sale.Sale_Return.resources
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Sale.Sale_return_view.resources
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Sale.Sale_Section.resources
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Sale.Sale_view.resources
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.UserRegestration.password_reset.resources
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.UserRegestration.user.resources
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.csproj.GenerateResource.Cache
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\Mobile_shop_application.exe.config
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\New folder\Mobile_shop_application.exe.config
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Mobile_shop_application.exe.config
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\Mobile_shop_application.exe
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\Mobile_shop_application.pdb
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\FlashControlV71.dll
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\stdole.dll
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.exe
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.pdb
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Expencess.Expencess_1.resources
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.Expencess.New_Expences.resources
+C:\Users\dell\OneDrive\Documentos\Visual Studio 2015\Projects\Mobile_shop_application\Mobile_shop_application\obj\Debug\Mobile_shop_application.SplashForm.resources
